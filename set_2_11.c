@@ -11,5 +11,5 @@ else
 {
 printf("no");
 }
-getch();
+return 0;
 }
